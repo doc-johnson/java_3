@@ -61,3 +61,4 @@ class Box<T extends Fruit>
         return this.getWeight() == box.getWeight();
     }
 }
+
