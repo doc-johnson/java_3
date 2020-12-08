@@ -11,5 +11,3 @@ public class Apple extends Fruit
         return "яблоки";
     }
 }
-
-

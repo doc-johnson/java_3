@@ -11,4 +11,3 @@ public class Orange extends Fruit
         return "апельсины";
     }
 }
-
